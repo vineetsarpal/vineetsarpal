@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vineetsarpal
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning R and Tableau
-- 💞️ I’m looking to collaborate on data analytics stuff
+- 💞️ I’m looking to collaborate in Data Science and Analytics projects
 - 📫 How to reach me - Email: vince.insanity@gmail.com
 
 <!---
