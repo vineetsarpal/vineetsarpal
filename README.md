@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vineetsarpal
 - 👀 I’m interested in Web Development, Business & Data Analysis, and Product Management 
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m working on some ideas and hoping to bring it to life
+- 💞️ I’m working on some ideas and hoping to bring them to life
 - 📫 How to reach me - Email: vineetsarpal02@gmail.com
 
 <!---
