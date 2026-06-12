@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vineetsarpal
-- 💻 I’m passionate about building full-stack and AI-powered applications
-- 🚀 I enjoy blending software engineering with product thinking to bring ideas to life
+👋 Hi, I’m Vineet  
+💻 I’m passionate about building full-stack and AI-powered applications  
+🚀 I enjoy blending software engineering with product thinking to bring ideas to life
 
 <!--
 ### 🛠 Tech Stack:
