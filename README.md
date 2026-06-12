@@ -2,7 +2,7 @@
 - 💻 I’m passionate about building full-stack and AI-powered applications
 - 🚀 I enjoy blending software engineering with product thinking to bring ideas to life
 
-
+<!--
 ### 🛠 Tech Stack:
 
 <p align="left">
@@ -25,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
 </p>
+-->
 
 <!---
 vineetsarpal/vineetsarpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
